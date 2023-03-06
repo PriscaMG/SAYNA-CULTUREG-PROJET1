@@ -8,10 +8,10 @@ Initiation à l’importance de la culture générale afin d'aiguiser l'esprit
   - 👾 Réseaux sociaux 
   - 👽 Classement commenté 
   
-        👉 Classement des actualités internationales les plus marquantes <br>
-        👉 Classement des films/séries francophones préférés <br>
-        👉 Classement des top destinations d’Afrique francophone <br>
-        👉 Classement des nouvelles technologies, les dernières innovations remarquables <br>
-        👉 Classement des top destinations d’Europe francophone <br>
+        👉 Classement des actualités internationales les plus marquantes
+        👉 Classement des films/séries francophones préférés
+        👉 Classement des top destinations d’Afrique francophone 
+        👉 Classement des nouvelles technologies, les dernières innovations remarquables 
+        👉 Classement des top destinations d’Europe francophone
  <br><br>
  --> 📌J'ai mis en pièce-jointe version pdf ce projet. <--
