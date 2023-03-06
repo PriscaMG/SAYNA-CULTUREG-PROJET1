@@ -2,7 +2,7 @@
 
 Initiation à l’importance de la culture générale afin d'aiguiser l'esprit 
 
-- 💁‍♀️ Ce projet appréhende les points suivants : 
+💁‍♀️ Ce projet appréhende les points suivants : 
   - 👾 Traitement de l’information 
   - 👽 Podcasts 
   - 👾 Réseaux sociaux 
