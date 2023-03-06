@@ -13,5 +13,5 @@ Initiation à l’importance de la culture générale afin d'aiguiser l'esprit
         👉 Classement des top destinations d’Afrique francophone 
         👉 Classement des nouvelles technologies, les dernières innovations remarquables 
         👉 Classement des top destinations d’Europe francophone
- <br><br>
+ <br>
  --> 📌J'ai mis en pièce-jointe version pdf ce projet. <--
